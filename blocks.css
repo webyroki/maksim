@@ -4,7 +4,7 @@
     background-color: transparent;
 }
 .img-fluid, .img-thumbnail {
-    width: 100%;
+    width: 100% !important;
     height: auto;
 }
 .redline {
