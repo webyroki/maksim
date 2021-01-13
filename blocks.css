@@ -4,6 +4,7 @@
     background-color: transparent;
 }
 .img-fluid, .img-thumbnail {
+    max-width: none;
     width: 100% !important;
     height: auto;
 }
