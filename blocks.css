@@ -3,7 +3,10 @@
     color: #f1eceb !important;
     background-color: transparent;
 }
-
+.img-fluid, .img-thumbnail {
+    width: 100%;
+    height: auto;
+}
 .redline {
     height: 60px;
     padding-top: 20px;
