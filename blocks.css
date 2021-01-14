@@ -329,11 +329,6 @@ div.container div.row div.col.offset-lg-8.mx-auto.text-center {
     height: 30px;
 }
 
-div.row.mserv div.col-md-6.col-lg-3.text-center.aos-init.aos-animate {
-    margin-right: 0px;
-    border: 5px solid rgb(255, 255, 255);
-}
-
 div.text-dark.mx-auto.service-box.mt-5 {
     background: #f9e814;
 }
