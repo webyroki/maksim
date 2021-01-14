@@ -3,11 +3,14 @@
     color: #f1eceb !important;
     background-color: transparent;
 }
-.img-fluid, .img-thumbnail {
+
+.img-fluid,
+.img-thumbnail {
     max-width: none;
     width: 100% !important;
     height: auto;
 }
+
 .redline {
     height: 60px;
     padding-top: 20px;
@@ -25,10 +28,6 @@
 
 section {
     padding: 5rem 0;
-}
-
-.how {
-    height: 593px;
 }
 
 .mbl {
@@ -353,4 +352,10 @@ div.mx-auto.service-box.mt-5 {
 div.mx-auto.service-box.mt-5 h3.mb-3 {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.img_services {
+    prpadding-right: 15px;
+    padding-left: 15px;
+    border: 5px solid rgb(255,255,255);       
 }
