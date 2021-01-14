@@ -363,4 +363,10 @@ div.mx-auto.service-box.mt-5 h3.mb-3 {
 .img_services {
     prpadding-right: 15px;
     padding-left: 15px;
+<<<<<<< HEAD
+    border: 5px solid rgb(255,255,255);
+        
+=======
+    border: 5px solid rgb(255,255,255);       
+>>>>>>> 38a8ed0584fec0349886dfcf11121bb6c04a3b8e
 }
